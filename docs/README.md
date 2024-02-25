@@ -16,4 +16,43 @@
 
 </details>
 
+## Getting Started
+
+### Prerequisites
+
+TODO
+
+### Installation
+
+TODO
+
+### Usage
+
+TODO
+
+## Project Components
+
+### Built With
+
+TODO
+
+### Roadmap
+
+TODO
+
+## Contributing
+
+TODO
+
+## Acknowledgements
+
+TODO
+
 ----------------------------------------------------------------------------------------------------
+
+<!--Call To Action-->
+<div align="center" markdown>
+
+⭐ If you wish to support Project MAPS, considering leaving the repository a star! ⭐
+
+</div>
