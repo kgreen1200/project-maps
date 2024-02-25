@@ -2,7 +2,7 @@
 
 ![Project Maps](assets/images/logo.png)
 
-**A Minecraft Automated Blueprint Projection System**
+**A Minecraft Architectural Placement System**
 
 ----------------------------------------------------------------------------------------------------
 

@@ -1,0 +1,22 @@
+---
+#####   Issue States   #####
+- name: "state: to do"
+  color: #FFFFFF
+  description: todo
+
+##### Issue Priorities #####
+- name: "priority: critical"
+  color: #FF0000
+  description: Critical request
+- name: "priority: high"
+  color: #FF0000
+  description: High request
+- name: "priority: normal"
+  color: #FF0000
+  description: Normal request
+- name: "priority: low"
+  color: #FF0000
+  description: Low request
+- name: "priority: needs triage"
+  color: #FF0000
+  description: Needs triage
